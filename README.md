@@ -1,2 +1,4 @@
 # hello-world
-Hello GitHub
+Hello Git
+
+This is a sample of a readme 
